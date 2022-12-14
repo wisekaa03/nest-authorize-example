@@ -33,7 +33,7 @@
     "@nestjs/passport": "^7.1.5",
     "@nestjs/platform-express": "^7.6.18",
     "@nestjs/typeorm": "^7.1.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "libpq": "^1.8.9",
     "passport": "^0.4.1",
     "passport-jwt": "^4.0.0",
